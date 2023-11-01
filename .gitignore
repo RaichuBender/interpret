@@ -1,0 +1,6 @@
+interpret
+interpret.tab.c
+interpret.tab.h
+interpret.tab.o
+lex.yy.c
+lex.yy.o
